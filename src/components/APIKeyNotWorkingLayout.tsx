@@ -1,6 +1,6 @@
 import React from "react";
 
-function APIKeyNotWorkingLayout() {
+function ChatUIAPIKeyDropdownActiveLayout() {
   return (
     <div>
       {/* Main Section */}
@@ -110,4 +110,4 @@ function APIKeyNotWorkingLayout() {
   );
 }
 
-export default APIKeyNotWorkingLayout;
+export default ChatUIAPIKeyDropdownActiveLayout;

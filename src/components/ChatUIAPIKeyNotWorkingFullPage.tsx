@@ -10,7 +10,7 @@ import {
   InfoCircledIcon,
 } from "@radix-ui/react-icons";
 
-const ChatUIAPIKeyNotWorkingFullPage = () => {
+const ChatUIAPIKeyDropdownActiveFullPage = () => {
   return (
     <div className="relative w-full min-h-screen bg-[#F5F6FA]">
       {/* Sidebar */}
@@ -509,4 +509,4 @@ const ChatUIAPIKeyNotWorkingFullPage = () => {
   );
 };
 
-export default ChatUIAPIKeyNotWorkingFullPage;
+export default ChatUIAPIKeyDropdownActiveFullPage;
